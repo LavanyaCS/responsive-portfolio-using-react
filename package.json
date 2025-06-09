@@ -4,16 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://lavanyacs.github.io/responsive-portfolio-using-react",
-    "scripts": {
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
-
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "bootstrap": "^5.3.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
