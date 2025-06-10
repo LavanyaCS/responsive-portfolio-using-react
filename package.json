@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://LavanyaCS.github.io/responsive-portfolio-using-react",
+ "homepage": "https://lavanyacs.github.io/responsive-portfolio-using-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
