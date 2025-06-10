@@ -1,7 +1,8 @@
+// vite.config.js
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/responsive-portfolio-using-react/',  // must match your repo name
   plugins: [react()],
+  base: '/responsive-portfolio-using-react/', // 👈 important for GitHub Pages!
 });
